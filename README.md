@@ -1,4 +1,4 @@
-<img src="https://github.com/remiodufuye/remiodufuye/blob/master/full stack new2.jpg" alt="">
+<img src="https://github.com/remiodufuye/remiodufuye/blob/main/fullstacknew2.jpg" alt="">
 
 ### My Name is Remi and I am a Software Engineer, My experience is with Ruby , React , Node , Solidity , Python and AWS ! 👋👩🏽‍💻
 
