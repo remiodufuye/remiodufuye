@@ -1,4 +1,4 @@
-### My Name is Remi and I am a Software Engineer at NASA , My experience is with React , Node , Solidity and Python ! 👋👩🏽‍💻
+### My Name is Remi and I am a Software Engineer, My experience is with React , Node , Solidity , Python and AWS ! 👋👩🏽‍💻
 
 
 - 🔭 I’m currently working in the Aerospace Sector  🚀
