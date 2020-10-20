@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... BlockChain Projects
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything 
-- 📫 How to reach me: ... https://www.youtube.com/c/RemiOdufuye
+- 📫 How to reach me: ...[YouTube Channel](https:www.youtube.com/c/remiodufuye)
 - 😄 Pronouns: ... He /Him 
 - ⚡ Fun fact: ... I love Making YouTube Videos ! 
 
