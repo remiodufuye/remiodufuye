@@ -1,6 +1,6 @@
 <img src="https://github.com/remiodufuye/remiodufuye/blob/main/fullstacknew2.jpg" alt="">
 
-### My Name is Remi and I am a Software Engineer, My experience is with Ruby , React , Node , Solidity , Python and AWS ! 👋👩🏽‍💻
+### My Name is Remi and I am a Full Stack Software Developer, My experience is with Ruby , React , Node , Solidity , Python and AWS ! 👋👩🏽‍💻
 
 
 - 🔭 I’m currently working in the Aerospace Sector  🚀
