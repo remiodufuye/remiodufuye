@@ -1,4 +1,4 @@
-<img src="https://github.com/remiodufuye/remiodufuye/blob/main/fullstacknew2.jpg" alt="fullstack" >
+<img src="https://github.com/remiodufuye/remiodufuye/blob/main/fullstack.jpg" alt="fullstack" >
 
 - 🔭 I’m currently working in the Aerospace Sector  🚀
 - 🌱 I’m currently learning ... everything i can !
