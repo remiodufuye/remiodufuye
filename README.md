@@ -3,7 +3,7 @@
 - 🔭 I’m currently working in the Aerospace Sector  🚀
 - 🌱 I’m currently learning .... everything I possibly can 👩🏽‍💻
 - 👯 I’m looking to collaborate on .... BlockChain Projects
-- 🤔 I’m looking for help with ... <a href='https://www.cliqki.com"> CLIQKI </a>
+- 🤔 I’m looking for help with ... https://www.cliqki.com
 - 💬 Ask me about .... Anything 
 - 📫 How to reach me: .... https//www.youtube.com/c/remiodufuye
 - 😄 Pronouns: .... He/Him 
