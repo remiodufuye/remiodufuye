@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with ... Django
 - 💬 Ask me about .... Anything 
 - 📫 How to reach me: .... https//www.youtube.com/c/remiodufuye
-- 😄 Pronouns: .... He/Him 
 - ⚡ Fun fact: .... I love Making YouTube Videos ! 
 
