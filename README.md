@@ -3,7 +3,7 @@
 - 🔭 I’m currently working On Something Awesome 🚀
 - 🌱 I’m currently learning .... everything I possibly can 👩🏽‍💻
 - 👯 I’m looking to collaborate on .... Crypto Projects
-- 🤔 I’m looking for help with ... AWS
+- 🤔 I’m looking for help with ... AI and Machine Learning 
 - 💬 Ask me about .... BlockChain Technology 
 - 📫 How to reach me: .... https//www.youtube.com/c/remiodufuye
 - ⚡ Fun fact: .... I love Making YouTube Videos ! 
