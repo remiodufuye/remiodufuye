@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning .... everything I possibly can 👩🏽‍💻
 - 👯 I’m looking to collaborate on .... Crypto Projects
 - 🤔 I’m looking for help with ... AI and Machine Learning 
-- 💬 Ask me about .... BlockChain Technology 
+- 💬 Ask me about .... TECH
 - 📫 How to reach me: .... https//www.youtube.com/c/remiodufuye
 - ⚡ Fun fact: .... I love Making YouTube Videos ! 
 
